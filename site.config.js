@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '探索道路上的顿悟瞬间',
+  name: '探索之路上的顿悟瞬间',
   domain: 'seanliwww',
   author: 'Sean Li',
 
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'lixiaowww',
+  twitter: 'seanlixiaowww',
   github: 'lixiaowww',
-  linkedin: 'lixiaowww',
+  linkedin: 'lixiaowww@gmail.com',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
